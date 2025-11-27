@@ -4,7 +4,7 @@
 ## 💫 About Me
 - 🎓 **Computer & Systems Engineering student**.
 - 🌱 I’m currently learning **DevOps** and **cloud technologies**  
-- 📚 Passionate about continuous learning and skill development.
+- 👨‍💻 Passionate about continuous learning and skill development.
 - 🛠️ Enjoy improving systems and understanding how things work behind the scenes.  
 - 🤝 Focused on growing in the DevOps field and connecting with like-minded people.
 - 📫 How to reach me: **eng.aliahmed312@gmail.com**.
