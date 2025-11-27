@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ali Ahmed </h1>
 <h3 align="center"> DevOps Engineer </h3>
 
-## 💫 About Me
+##  About Me
 - 🎓 **Computer & Systems Engineering student**.
 - 🌱 I’m currently learning **DevOps** and **cloud technologies**  
 - 👨‍💻 Passionate about continuous learning and skill development.
