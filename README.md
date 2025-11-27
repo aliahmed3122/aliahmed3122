@@ -1,5 +1,14 @@
-# 💫 About Me:
-Hi, I’m Ali Ahmed - a Computer & Systems Engineering student interested in DevOps and cloud technologies.<br>I enjoy learning new skills, improving systems, and understanding how things work behind the scenes.<br>I'm focused on growing in the DevOps field and connecting with people who share the same passion.
+<h1 align="center">Hi 👋, I'm Ali Ahmed </h1>
+<h3 align="center"> DevOps Engineer </h3>
+
+## 💫 About Me
+- 🎓 **Computer & Systems Engineering student**.
+- 🌱 I’m currently learning **DevOps** and **cloud technologies**  
+- 📚 Passionate about continuous learning and skill development.
+- 🛠️ Enjoy improving systems and understanding how things work behind the scenes.  
+- 🤝 Focused on growing in the DevOps field and connecting with like-minded people.
+- 📫 How to reach me: **eng.aliahmed312@gmail.com**.
+
 
 
 ## 🌐 Socials:
