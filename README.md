@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Ahmed </h1>
-<h3 align="center"> DevOps Engineer </h3>
+
 
 ##  About Me
 - 🎓 **Computer & Systems Engineering student**.
