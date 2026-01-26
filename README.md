@@ -3,7 +3,7 @@
 <hr>
 
 ##  About Me
-- 🎓 **Computer & Systems Engineering student**.
+- 🎓 **Computer & Systems Engineering**.
 - 🌱 I’m currently learning **DevOps** and **cloud technologies**  
 - 👨‍💻 Passionate about continuous learning and skill development.
 - 🛠️ Enjoy improving systems and understanding how things work behind the scenes.  
